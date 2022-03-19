@@ -2,17 +2,6 @@
 This is my first website which i have created . This is a simple ui of the web application based on GYM membership.
 
 Below are some of the images of the website.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 
 
 [Screenshot (6)](https://user-images.githubusercontent.com/100313227/159127484-c0d30952-65e4-424f-9575-4e35f85db1e4.png)
